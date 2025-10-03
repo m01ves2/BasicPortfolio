@@ -18,6 +18,7 @@ This repository is a showcase of my projects, each is a standalone solution.
 | Project | Screenshot | Technologies | Repository |
 |---------|-----------|-------------|------------|
 | **Console Calculator** | ![ConsoleCalculator](images/consolecalculator.png) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp) | [Repo](https://github.com/m01ves2/ConsoleCalculator) |
+| **Console Dictionary** | ![ConsoleDictionary](images/consoleDictionary.png) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp) | [Repo](https://github.com/m01ves2/ConsoleDictionary) |
 | **Guess the Number** | ![GuessNumberGame](images/guessnumber.png) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp) | [Repo](https://github.com/m01ves2/GuessNumberGame) |
 | **Todo List JSON** | ![TodoList](images/todolist.png) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp) | [Repo](https://github.com/m01ves2/TodoListJson) |
 | **Contacts Manager** | ![ContactsManager](images/contacts.png) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp) ![EF Core](https://img.shields.io/badge/EF_Core-68217A?style=flat) | [Repo](https://github.com/m01ves2/ContactsManager) |
